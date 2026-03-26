@@ -1,0 +1,3 @@
+http://20.204.74.186    ##Public Ip Address FOR Q1 And Q3
+
+https://riteshstorage123.z29.web.core.windows.net/  ##URL of Static Website for Q3

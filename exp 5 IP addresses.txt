@@ -1,0 +1,3 @@
+http://104.215.144.239/ Public IP of Migrated VM
+
+http://52.172.248.110/  Public IP of Original VM before Migration
